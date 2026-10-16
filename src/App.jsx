@@ -45,7 +45,7 @@ const App = () => {
     ],
   }
 
-  const fullName = 'Danielle Manguilimotan'
+  const fullName = 'Jaylord Mantuhac'
   const courseCode = 'CSIT340'
   const section = 'G7'
 
