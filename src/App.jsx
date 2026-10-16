@@ -45,7 +45,7 @@ const App = () => {
     ],
   }
 
-  const fullName = 'Jaylord Mantuhac-Tester2.0'
+  const fullName = 'Jaylord Mantuhac-Final Testing'
   const courseCode = 'CSIT340'
   const section = 'G7'
 
